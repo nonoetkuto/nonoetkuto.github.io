@@ -14,9 +14,12 @@ Comme cette histoire de stream, on a oublié mdr
 Donc t’as compris c’est un putain d’article qui va regrouper toute la connerie que j’ai vue ou vécue pendant une semaine.
 
 C’est partie avec le comme DAB les sons du moment. Les sons lourds que j’écoute en boucle.
-- [Son 1](https://youtu.be/fbOmB-ENr9Q)
-- [Son 2](https://youtu.be/wOy2RJze7fA)
-- [Son 3](https://youtu.be/rbmcxs4SU88)
+
+{{< youtube fbOmB-ENr9Q >}}
+
+{{< youtube wOy2RJze7fA >}}
+
+{{< youtube rbmcxs4SU88 >}}
 
 # L’actualité en retard
 
@@ -43,6 +46,7 @@ Voilà c’est une nouvelle discipline sportive féminine qui consiste à expuls
 
 J’ai pas résister je te mets un extrait :
 
+{{< youtube syAcqVxjjs4 >}}
 
 PS : c’est un AMV de merde balekouille, coupe le son mdr (oui j’ai fait exprès)
 

@@ -17,7 +17,7 @@ Petit [son](https://youtu.be/uzUozo1628U) pour l’occaz
 
 Content de te retrouver et cette fois ci c’est un article un peu spécial. On va parler de la toute dernière annonce de nentendo. On va te parler de la NX. Si t’as raté l’annonce voici le trailer officiel :
 
-[First Look at Nentendo Switch](https://youtu.be/f5uik5fgIaI)
+{{< youtube f5uik5fgIaI >}}
 
 Petite musique groovy toussa, nentendo a du goût, enfin on va en reparler !
 

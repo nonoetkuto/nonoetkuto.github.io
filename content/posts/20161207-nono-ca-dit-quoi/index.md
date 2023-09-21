@@ -11,6 +11,8 @@ On se retrouve poto pour le petit rituel, au programme son, jeux vidéo, séries
 
 J’espère que t’es chaud parce que moi je le suis. C’est parti avec le [dernier son](https://youtu.be/Q-tW-qI52Us?feature=shared) de Médine sorti hier.
 
+{{< youtube Q-tW-qI52Us >}}
+
 T’es pas sans savoir que Médine fait partie de mes rappeurs préférés, même simplement de mes artistes préférés. Ces derniers temps, j’étais revenu un peu au rap old school, je trouvais que le panel qu’offrait le rap était un peu sans saveur. C’est un kebab bas de gamme, même si je m’enjaille bien sur du PNL ou du Booba, Kaaris, mon cerveau avait besoin de textes avec une certaine réflexion derrière. Je trouve que le clip est bien réalisé (vnr sa veste). On y voit son fils qui joue le rôle de Global (son nom d’artiste avant d’utiliser son prénom comme blaze). Je suis pas là pour déconstruire son texte. Pourquoi ? Parce que je sais pas faire ça mdr.  Bref j’ai hâte d’écouter son prochain album Prose élite qui sort le 24 février, surtout qu’il annonce la couleur :
 
 > Mon meilleur album c’est celui qui n’est pas encore sorti.
@@ -30,7 +32,7 @@ Je sais pas trop par où commencer, gros faut supprimer la télé ces derniers j
 - Aimeriez-vous faire du porno ? Oui
 - Pratiquez-vous la sodomie ? Oui
 
-Vous êtes compatible avec Remy Lacroix à 89%
+Vous êtes compatible avec [Remy Lacroix](https://www.xnxx.com/video-w3x9197/bangbros_-_petite_babe_with_nice_big_ass_on_all_fours_taking_it_up_the_butt) à 89%
 
 Putain bande de connards les points communs ça fait pas tout, mais en vrai si t’es grave en chien de meuf tu participes à une émission comme celle-là t’as un mariage et surtout une lune de miel payée par la prod du coup tu la dérouilles salement. C’est Tinder l’émission, d’ailleurs je parlerai peut-être un jour des applications de dating.
 
@@ -61,7 +63,9 @@ Je vais te parler de ma série préféré Vikings qui a repris sa saison la sema
 
 Attention le lien ci-dessous spoil une partie de la série, vu que c’est ma série préféré et que je te la conseille vraiment, frérot commence tout de suite à la regarder et sinon si tu t’en fous du spoil, c’est la scène qui respire le plus la testostérone.
 
-[Le trailer ici](https://youtu.be/T4oluLrYczo?feature=shared)
+Le trailer:
+
+{{< youtube T4oluLrYczo >}}
 
 Sinon je mate Gotham que je pense lâcher, l’acteur qui joue Bruce Wayne est d’un énervant, mais pas de la bonne manière comme Joeffrey dans GoT là il est juste casse couilles. Et le jeu d’acteur de manière globale dans cette série est à chier. C’était sympa la première saison mais la c’est juste des enquêtes policières sans grande importance autour de l’univers de Batman.
 

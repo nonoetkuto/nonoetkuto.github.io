@@ -5,7 +5,7 @@
 ### Install Hugo using winget
 ```shell
 winget install Hugo.hugo.Extended
-hugo --version # Check if hugo is correctly installed
+hugo version # Check if hugo is correctly installed
 ```
 
 Once hugo is installed, checkout the git repository on your machine.

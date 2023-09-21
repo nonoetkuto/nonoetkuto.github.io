@@ -9,7 +9,9 @@ Bonjour les frères, le site de Nono & Kuto est en cours de constructions, soyez
 
 Peace.
 
-Bah non il est ouvert ! le site subira encore des modifications ces prochains jours mais nous sommes satisfait de celui-ci pour le moment et on préfère te proposer du contenu lourd dès à présent. Une présentation détaillée arrivera dans les prochains jours avec quelques dossier en primes en attendant [écoute ça](https://www.youtube.com/embed/VC4ORS5n9Hg)
+Bah non il est ouvert ! le site subira encore des modifications ces prochains jours mais nous sommes satisfait de celui-ci pour le moment et on préfère te proposer du contenu lourd dès à présent. Une présentation détaillée arrivera dans les prochains jours avec quelques dossier en primes en attendant écoute ça:
+
+{{< youtube VC4ORS5n9Hg >}}
 
 Bonne lecture sur notre site Internet frère.
 

@@ -5,7 +5,6 @@ excerpt = 'Ok les frères, on est allé à JI pour tester la Nentendo Switch !!!
 tags = ['test']
 +++
 
-
 ![](images/1.png)
 
 Ok les frères, on est allé à JI ce week-end. Pour rappel la JI c’est en gros un Polymanga en plus petit, mais plus stylé. Parce que t’as des trucs à faire au moins mdr.

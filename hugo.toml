@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-FR'
+title = 'Nono et Kuto'
+theme = 'tophat'
+
+[params]
+    
+  subtitle = "L'actualité e-sport"
+  description = "Nono et Kuto - L'actualité e-sport"
+  author = "Nono et Kuto"
+
+  main = "posts"
+  featured = true
+  
+  # You can customize the visibility of some elements like date, reading time, words counter and tags inside article by setting true or false
+  show_date_on_article = true
+  show_reading_time_on_article = true
+  show_words_count_on_article = true
+  show_tags_on_article = true  

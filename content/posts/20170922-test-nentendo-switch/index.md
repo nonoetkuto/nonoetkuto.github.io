@@ -16,12 +16,12 @@ Alors que Polymonga c’est le youtube game… la grosse machine a fric… mais 
 
 Bon on va parler de la Switch maintenant cet article est là pour ça surtout qu’on a fait un article spécial JI mdr, on a plein de choses à dire… chez NK on est un peu partagé en vrai. Mais on va essayer de rester objectif, mais tu sais que c’est dead.
 
-## L’introduction
+# L’introduction
 Ok avant c’était pas une introduction mais là s’en est une. On débarque à JI voilà et on voit au fond du grand couloir le stand Switch assez reconnaissable avec du [rouge règle](http://missfrottis.blog.lemonde.fr/2012/09/19/la-couleur-la-quantite-et-la-duree-des-regles-normales/) partout. On est chanceux, il y a pas trop de monde, mais faut faire la queue… On arrive à ~~raquetter~~ gratter un pass VIP, du coup on passe sans faire la queue en foutant bien le seum au sécu.
 
 D’ailleurs parlons-en un peu, le mec il est devenu fou, il avait des ordres très stricts ne pas faire entrer NK, mais tu nous connais on est des pros de la filouterie on est rentré à JI de la même manière alors que nos têtes étaient en mode Wanted à la One Piece 200 000 000 de berrys. OK OK Nono & Kuto les supernovas tu connais.
 
-## Le mode portable type A
+# Le mode portable type A
 Direct devant nous, 4 clochards qui jouent à la switch en mode portable. C’est le mode où tu prends ta switch comme un écran et que tu détaches les manettes pour en faire 2 manettes distinctes. C’est compliqué à expliquer mais j’te montre un dessin:
 
 ![](images/2.png)
@@ -36,14 +36,14 @@ De plus, on remarque que les joypads ne forment pas une [symétrie centrale](htt
 ![](images/3.png)
 *Mais tout vas bien...*
 
-## Le mode console type A
+# Le mode console type A
 Devant nous toujours, 3 bornes avec ARMS comme démo. Ce mode c’est le mode console type A a.k.a je suis chez moi je joue sur ma TV et les 2 manettes dans chacune de mes mains comme si c’était une Wii.
 
 Alors les manettes, toujours trop petites, selon nous, mais passent mieux dans chacune des mains. Cependant c’est moins confortable que le combo Nunchuk/Wiimote.
 
 Si on parle 2 secondes de ARMS: Je pense que c’est le jeu qui vaut le détour. Hormis Zelda, ça doit être le jeu à doser sur Switch les premiers mois à venir. Il est assez marrant et facile à prendre en main. Il possède les éléments de base d’un jeu de combat: Contre, Esquive, Garde, Fury/Special attack, etc.  Le jeu est à surveiller de près, il a un grand potentiel d’ESPORT ESPORT.
 
-## 1,2 Switch
+# 1,2 Switch
 On a testé 1,2 Switch. Si vous avez vu la pub de Nentendo, vous savez ce que c’est. Mais en gros c’est des jeux démos pour montrer ce qu’on peut faire avec les manettes.
 
 Il y avait 4 jeux:
@@ -64,12 +64,12 @@ Ah, et le jeu n’est pas compris avec la Switch si jamais hein… C’est pas c
 
 1, 2, Switch, 60 CHF chez nous. Ca fait cher pour traire des vaches et  se prendre pour [Lucky Luke](https://www.youtube.com/watch?v=JH3tWsOMvI4) et [Samurai Jack](https://www.youtube.com/watch?v=e51hgWIsY4M).
 
-## Zelda le souffle de la nature [(belle trad)](https://translate.google.ch/?oe=utf-8&client=firefox-b-ab&gfe_rd=cr&um=1&ie=UTF-8&hl=fr&client=tw-ob#en/fr/Breath%20of%20the%20wild)
+# Zelda le souffle de la nature [(belle trad)](https://translate.google.ch/?oe=utf-8&client=firefox-b-ab&gfe_rd=cr&um=1&ie=UTF-8&hl=fr&client=tw-ob#en/fr/Breath%20of%20the%20wild)
 On a pas testé parce qu’il fallait être dans la guest list. On a essayé de niquer le système une 2e fois mais bon… Du coup on a capturé des gens dans le noir pour qu’ils nous donnent des infos. On va pas dire ce qui était bien dans Zelda parce que tout le monde connait la série et tout le monde sait que c’est de la frappe. On va plutôt noter ce qui était à chier:
 
 Aliasing sur écran TV, baisse de frame rates et ralentissements. Merci au revoir.
 
-## Conclusion
+# Conclusion
 On va conclure sur ça. En gros la Switch, annoncée à 299 $ aux US et 299 € en Fronce, naturellement coutera 350 CHF ici parce qu’on est des pigeons. Tu comptes Zelda à 70 CHF ça fait grosso modo 420 CHF pour jouer à Zelda mdr. On va être honnêtes, sans Zelda, la Switch [c’est zéro](https://www.youtube.com/watch?v=dHkSaxRqhu8). Le prochain jeu cool, c’est Mario Odyssey qui sort à la fin de l’année mdr.
 
 Du coup, t’achètes la Switch + Zelda, 420 CHF. Tu fumes le jeu en 1 mois et tu la ranges jusqu’au 31 décembre si t’as de la chance.
